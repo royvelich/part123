@@ -4,7 +4,7 @@ opencv-python==4.8.1.78
 transformers
 taming-transformers-rom1504 
 tqdm
-numpy==1.26
+numpy==1.24.4
 kornia
 webdataset
 omegaconf
