@@ -1,0 +1,14 @@
+name: part123
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pip
+  - pytorch==1.13.0
+  - torchvision==0.14.0
+  - torchaudio==0.13.0
+  - pytorch-cuda=11.6
+  - pip:
+    - -r requirements_cog.txt
