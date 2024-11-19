@@ -11,4 +11,4 @@ dependencies:
   - torchaudio==0.13.0
   - pytorch-cuda=11.6
   - pip:
-    - -r requirements_cog.txt
+    - -r requirements.txt
